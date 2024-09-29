@@ -1,4 +1,4 @@
-# kubernetes_project## Application Deployment using Minikube
+![project](https://github.com/user-attachments/assets/7c0dd3a1-783c-4edb-88d5-76dab75bb9a2)# kubernetes_project## Application Deployment using Minikube
 The project aims to deploy a web application along with a MongoDB database in a Kubernetes environment using Minikube. It involves setting up MongoDB, creating Kubernetes resources (such as ConfigMaps, Secrets, Deployments, and Services), configuring access, and enabling interaction with the deployed application.
 ## Project Steps
 1. ### Configuration and Secrets Setup: <br>
@@ -30,5 +30,4 @@ The project aims to deploy a web application along with a MongoDB database in a 
 
    
 ## Project Diagram 
-
 
